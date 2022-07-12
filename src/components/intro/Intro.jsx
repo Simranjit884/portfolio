@@ -1,9 +1,7 @@
-import './.intro.scss';
+import "./intro.scss";
 
 const Intro = () => {
-  return (
-    <div className='intro'>Intro</div>
-  )
-}
+  return <div className="intro">Intro</div>;
+};
 
-export default Intro
+export default Intro;

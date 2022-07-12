@@ -1,9 +1,9 @@
 import Testimonials from "./components/testimonials/Testimonials";
 import Topbar from "./components/topbar/Topbar";
-import Portfolio from "./components/topbar/Portfolio";
-import Work from "./components/topbar/Work";
-import Contact from "./components/topbar/Contact";
-import Intro from "./components/topbar/Topbar";
+import Portfolio from "./components/portfolio/Portfolio";
+import Work from "./components/work/Work";
+import Contact from "./components/contact/Contact";
+import Intro from "./components/intro/Intro";
 
 function App() {
   return (
