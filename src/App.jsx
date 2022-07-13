@@ -15,6 +15,7 @@ function App() {
         <Work />
         <Testimonials />
         <Contact />
+        <div className="sections"></div>
       </div>
     </div>
   );
